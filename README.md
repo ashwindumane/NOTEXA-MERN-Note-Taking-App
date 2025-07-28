@@ -1,6 +1,6 @@
 # 📝 NOTEXA – MERN Note Taking App
 
-**NOTEXA** is a full-featured MERN stack note-taking app designed for speed, simplicity, and productivity. It offers an elegant UI, fast performance, and seamless CRUD operations
+**NOTEXA** is a full-featured MERN stack note-taking app designed for speed, simplicity, and productivity. It offers an elegant UI, fast performance, and seamless CRUD operations.
 
 ## 🔗 Live Demo
 [View App on Vercel](https://notexa-note-app-by-ashwin-dumane.vercel.app/)
